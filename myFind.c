@@ -1,5 +1,5 @@
 //
-// Created by Tilliw on 6/8/20.
+// Created by Maxi on 6/8/20.
 //
 #include <libgen.h>
 #include "ftw.h"
