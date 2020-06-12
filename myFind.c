@@ -1,6 +1,7 @@
 //
 // Created by Maxi on 6/8/20.
 //
+#define _XOPEN_SOURCE 700
 #include <libgen.h>
 #include "ftw.h"
 #include "stdio.h"
